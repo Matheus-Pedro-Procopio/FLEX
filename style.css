@@ -1,0 +1,141 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+    
+}
+
+#divblack{
+background-color: black;
+position: sticky;
+width: 13%;
+height: 100vh;
+top: 0;
+}
+
+#elitephoto{
+    color: white;
+    padding-top: 45px;
+    padding-left: 30px;
+     font-family: "quicksand"; 
+}
+
+.p{
+    color: white;
+    padding-left: 30px;
+    font-family: "quicksand";
+   
+}
+#p{
+    padding-top: 30px;
+    color: red;
+    font-family: "quicksand";
+}
+
+main{
+    background-image: url(img_9.jpg);
+    width: 87%;
+    justify-content: center;
+    align-items: center;
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+#txtimg1{
+    backdrop-filter: brightness(50%);
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    flex-direction: column;
+    height: 100vh;
+    display: flex;
+}
+#txt1{
+   padding-bottom: 40px;
+}
+body{ display: flex ;}
+.img{
+    border: 1px solid black;
+    width: 33%;
+    height: 300px;
+   
+}
+#divmaeimg{
+    display: flex;
+    flex-wrap: wrap;
+}
+.img img{
+    width: 100%;
+    height: 300px;
+    object-fit: cover;
+}
+
+#display2{
+ background-color: black;
+ text-align: center;
+ color: white;
+ 
+}
+#h1testimonial{
+    text-align: center;
+}
+#person{
+    text-align: center;
+    border-radius: 1000px;
+    width: 166px;
+    height: 166px;
+    
+}
+#biog{
+    background-color: black;
+
+}
+#h1padd{
+    padding-top: 150px;
+    padding-left: 500px;
+    color: white;
+}
+#person3{
+    padding-left: 500px;
+    padding-top: 90px;
+   height: 600px;
+   width: 1000px;
+   color: white;
+
+}
+.p3{
+    padding-top: 15px;
+    padding-left: 500px;
+    color: white;
+}
+.imgcheck1{
+    width: 30px;
+    height: 30px;
+    
+    
+}
+.divpai{
+padding-top: 30px;
+padding-left: 30px;
+display: block;
+}
+#divpai1{
+    display: flex;
+   text-align: center;
+}
+#divpai2{
+display: flex;
+text-align: center;
+}
+#divpai3{
+display: flex;
+text-align: center;
+}
+#divmae{
+    display: flex;
+}
+
+.divpapai{
+   display: flex;
+  flex-wrap: wrap;
+  margin-left: 150px;
+
+}
